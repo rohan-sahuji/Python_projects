@@ -1,3 +1,5 @@
+# Save mobile number in another file called credentials.py
+# and import it from their to maintain privacy
 from credentials import mobile_number
 import requests
 import time
